@@ -1,0 +1,7 @@
+# virtual environment
+.venv
+venv
+env
+
+# create files
+.csv
